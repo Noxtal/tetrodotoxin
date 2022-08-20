@@ -1,3 +1,5 @@
+<img src="media/logo.png" alt="Logo" align="center" width="80">
+
 # tetrodotoxin
 > ⚠️ **Be careful**: Use this *malicious* software at YOUR OWN RISKS!
 
@@ -21,9 +23,8 @@ A Rust malware controlled by a Go web interface, API and socket server. See [Obj
 3. Having multiple clients centralized to the same socket server and interface.
 
 ## Etymology
-```
 Tetrodotoxin (TTX) is a potent neurotoxin. Its name derives from Tetraodontiformes, an order that includes pufferfish, porcupinefish, ocean sunfish, and triggerfish; several of these species carry the toxin. Although tetrodotoxin was discovered in these fish and found in several other animals [...], it is actually produced by certain infecting or symbiotic bacteria like Pseudoalteromonas, Pseudomonas, and Vibrio as well as other species found in animals.
-```
+
 (source: [Wikipedia](https://en.wikipedia.org/wiki/Tetrodotoxin))
 
 
