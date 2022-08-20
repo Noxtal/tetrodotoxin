@@ -1,5 +1,3 @@
-<img src="media/logo.png" alt="Logo" align="center" width="80">
-
 # tetrodotoxin
 > ⚠️ **Be careful**: Use this *malicious* software at YOUR OWN RISKS!
 
