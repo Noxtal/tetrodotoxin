@@ -4,8 +4,10 @@
 [![GitHub license](https://img.shields.io/github/license/Noxtal/tetrodotoxin)](https://github.com/Noxtal/tetrodotoxin/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Noxtal/tetrodotoxin)](https://github.com/Noxtal/tetrodotoxin/stargazers)
 
+A Rust malware controlled by a Go web interface, API and socket server. See [Objectives](#objectives) for more details.
+
 - [tetrodotoxin](#tetrodotoxin)
-  - [Objective](#objective)
+  - [Objectives](#objectives)
   - [Etymology](#etymology)
   - [Usage](#usage)
   - [Network structure](#network-structure)
@@ -13,9 +15,10 @@
   - [Screenshots](#screenshots)
   - [TODO](#todo)
 
-## Objective
+## Objectives
 1. Bring a new malware to the recent Rust malware development scene to use Rust's youth as a way to show undetectability fairly easily.
 2. Abusing Go's networking versatility and ease of use for both managing client sockets and the webserver to build a complete architecture.
+3. Having multiple clients centralized to the same socket server and interface.
 
 ## Etymology
 ```
