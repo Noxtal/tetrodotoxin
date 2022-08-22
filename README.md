@@ -29,7 +29,7 @@ Tetrodotoxin (TTX) is a potent neurotoxin. Its name derives from Tetraodontiform
 ## Usage
 Find the necessary binaries in the corresponding [Release](https://github.com/Noxtal/tetrodotoxin/releases). Launch the server binary locally and make sure external connections may reach it. Get on `localhost:80` and watch your own Command and Control Center appear. As for infection, simply get a foothold into the victim and execute the client binary (relying on the target OS, obviously). When it is all done, refresh the webpage and your first client will indeed appear! Use the top bar to send commands to every socket and the smaller ones to choose from individually.
 
-> DISCLAIMER: Obviously, it is that easy... There is a crucial feature voluntarily missing from the client. It can be fixed easily, this malware's usage is limited to the worthy. You will at least need to recompile a new version for it to work as you would want it to. Stay away skiddies. Learn first.
+> DISCLAIMER: Obviously, it is not that easy... A crucial feature voluntarily lacks from the client. This malware's usage is limited to the worthy. You will at least need to recompile a new version for it to work as you would want it to. Stay away skiddies. Learn first.
 
 ## Network structure
 
